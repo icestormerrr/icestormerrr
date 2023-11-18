@@ -1,5 +1,5 @@
 # 💫 About Me:
-💚 Work at CROC<br>🎓 Study at MIREA University<br>🚀 Enjoy working with react and typescript<br>🧑🏼‍💻 Working on (pet) messenger app
+💚 CROC<br>🎓 Study at MIREA University<br>🚀 Enjoy working with react and typescript<br>🧑🏼‍💻 Working on (pet) messenger app
 
 
 ## 🌐 Socials:
