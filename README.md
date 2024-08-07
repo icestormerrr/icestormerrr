@@ -1,5 +1,5 @@
 # 💫 About Me:
-💚 CROC<br>🎓 Study at MIREA University<br>🚀 Enjoy working with react and typescript<br>🧑🏼‍💻 Working on (pet) task-tracker app "KaBan"
+💚 CROC<br>🎓 Study at MIREA University<br>🚀 Enjoy working with typescript and golang<br>🧑🏼‍💻 Working on (pet) task-tracker app "KaBan"
 
 
 ## 🌐 Socials:
